@@ -1,7 +1,10 @@
 {
 	"manifest_version": 2,
-	"name":  "t-square helper",
+	"name":  "r/cfb GT Finder",
 	"version":  "1.0",
+	"browser_action": {
+		"default_icon": "georgia-tech-fb.0.png"
+	},
 
 	"content_scripts": [
 			{
