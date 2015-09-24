@@ -9,7 +9,7 @@
 					//"https://t-square.gatech.edu/portal"
 					"https://www.reddit.com/r/cfb"
 				],
-				"js": ["content.js"]
+				"js": ["jquery-2.1.4.min.js", "content.js"]
 			}
 		]
 }
