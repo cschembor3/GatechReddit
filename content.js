@@ -1,4 +1,4 @@
-var key = ["georgia tech", "yellow jackets", "justin thomas"];
+var key = ["georgia tech", "yellow jackets", "justin thomas", "paul johnson", "triple option", "skov", "ramblin", "rambling wreck", "wreck"];
 
 var openPage = function (thread, url) {
 	var win = window.open(url);
