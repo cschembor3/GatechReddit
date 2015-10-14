@@ -8,8 +8,7 @@
 
 	"content_scripts": [
 			{
-				"matches": [
-					//"https://t-square.gatech.edu/portal"
+				"matches": [	
 					"https://www.reddit.com/r/cfb"
 				],
 				"js": ["jquery-2.1.4.min.js", "content.js"]
